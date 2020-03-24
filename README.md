@@ -1,7 +1,7 @@
 # node
 结合node,mongodb开发的评论社区
 
-使用npm配置文件（自行下载，因为文件过大，删除了node_odules）
+使用npm配置文件（自行下载，因为文件过大，删除了node_modules）
  "art-template": "^4.13.2",
     "blueimp-md5": "^2.12.0",
     "body-parser": "^1.19.0",
